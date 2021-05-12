@@ -171,6 +171,13 @@ header {
 .logo-white:focus {
   color: var(--accent-text-color);
 }
+
+/*  адрес  */
+
+address {
+  display: block;
+  font-style: normal;
+}
 .address {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
